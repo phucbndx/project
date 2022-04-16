@@ -1,0 +1,47 @@
+.logo {
+  width: 140px;
+  height: 40px;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
+.bgAll {
+  background-color: #333333;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+  background-color: #080201;
+}
+
+.dropdown button:hover {
+  color: red !important;
+}
+
+.dropdown-item {
+  background-color: #333333;
+}
+
+.dropdown button {
+  white-space: nowrap;
+}
+
+input:focus {
+  outline: none;
+
+}
+.search input {
+  height: 100%;
+  width: 75%;
+  border: none;
+}
+.cuson {
+  cursor: pointer;
+}
+.fb {
+  width: 40px;
+  height: 40px;
+}

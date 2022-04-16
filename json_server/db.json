@@ -1,0 +1,128 @@
+{
+    "film": [
+        {
+            "id": 1,
+            "title": "Ma Cà Rồng Morbius",
+            "description": "Hành Động, Phiêu Lưu,Kinh D...",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/02/10/58ac62545c32dc7a_e141bfb31c49c622_399291644435257516068.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Cưới Em Đi",
+            "description": "Tình Cảm, Hài Hước, Âm Nhạc",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/02/11/4e66d2493572d62d_4c373653f0630d1b_353321644563156316068.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Trăng Rơi",
+            "description": "Hành Động,Phiêu Lưu,Viễn T..",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/02/17/89f3f0cde5d5abe4_2485ee92630c7d3d_367411645093856716068.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Án Mạng Trên Sông Nile",
+            "description": "Hình Sự, Kịch Tính, Bí Ẩn",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2021/12/22/e13bdcce66baa437_26a586e9ed6d944d_456861640150114916068.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Quái Xế Giao Hàng",
+            "description": "Hành Động,Kinh Dị, Hình Sự",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/03/24/91b80f8400345b41_33ef1853f33657fc_441791648132157716068.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Batman: Vạch Trần Sự Thật",
+            "description": "Hành Động,Tâm Lý, Hình Sự",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/02/17/68b9965cc580e247_6c1fa5613e1c1e48_365631645111089716068.jpg"
+        }
+    ],
+    "filmChieuRap": [
+        {
+            "id": 1,
+            "title": "Chạy Trốn Đối Đầu",
+            "description": "Hành Động, Kinh Dị, Hình Sự...",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/04/16/7c8ba5996dc7c233_348a54899aa34f8f_383151650043447616068.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Con Hẻm Ác Mộng",
+            "description": "Tâm Lý,Hình Sự,Kịch Tính,Ga....",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/03/20/ba367d777e5ae62c_b0a65f423c0b573c_367841647767997416068.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Phi Vụ Đen",
+            "description": "Hành Động,Gay Cấn",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/03/02/a0d037677e7b8cd1_d75c44b9beb55eaa_293941646197062316068.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Người Nhện: Không Còn Nhà",
+            "description": "Hành Động,Phiêu Lưu, Hài Hư....",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2021/11/26/57f7ab3b1d034d16_9c4cc48b52c5b4e5_465891637914778816068.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Tín Hiệu Diệt Vong",
+            "description": "Hành Động,Kinh Dị, Hình Sự",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/04/15/92c45358095e96f4_5f6e41ed44932607_373101649999759916068.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Chạy Trốn Đối đầu",
+            "description": "Hành Động,Tâm Lý, Hình Sự",
+            "sources": [
+                "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            ],
+            "image": "https://s198.imacdn.com/ff/2022/04/16/7c8ba5996dc7c233_348a54899aa34f8f_383151650043447616068.jpg"
+        }
+    ],
+    "slider": [
+        {
+            "id": 1,
+            "image": "https://s198.imacdn.com/ff/2022/03/24/2330a261dbb9e31e_982ea2b9f71d32cc_2340971648110912516068.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://s198.imacdn.com/ff/2022/04/01/d9a8abb99d0cf29b_8bfc97f8d8108540_78492164881626913816.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://s198.imacdn.com/ff/2021/02/09/d3b4d47cc1b0a87d_a8c9408e16a047ea_313351612857820116068.jpg"
+        }
+    ]
+}
