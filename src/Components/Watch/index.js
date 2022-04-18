@@ -3,11 +3,12 @@ import { useEffect, useState } from 'react';
 import Header from '../Header';
 import { Container, Row, Col } from 'react-bootstrap';
 import { Player } from 'video-react';
+import './watch.css'
 
 const Watch = () => {
     const [video, setVideo] = useState([])
     useEffect(() => {
-        fetch('http://localhost:3000/videos')
+        fetch('http://localhost:3006/videos')
             .then(res => res.json())
             .then(video => {
 
@@ -16,6 +17,7 @@ const Watch = () => {
             });
 
     }, [])
+    
     return (
 
         <Container fluid>
@@ -32,7 +34,7 @@ const Watch = () => {
                     </Col>
                     <Col xl={4}>asas</Col>
                 </Row>
-                
+
             </Container>
         </Container>
         // <div>

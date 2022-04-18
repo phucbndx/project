@@ -115,7 +115,13 @@ function Header() {
 
                     <Col xl={2} className="d-flex align-items-center justify-content-around">
                         <div className="d-flex align-items-center justify-content-evenly">
-                            <div className='me-4'><img src='https://cdn-icons-png.flaticon.com/512/5968/5968764.png' className='fb d-none d-xl-block' /></div>
+                            <button className='me-4 bgAll border-0' onClick={
+                                () => {
+                                    window.open(' https://www.facebook.com/phim1080tv')
+                                }
+                            }>
+                                <img src='https://cdn-icons-png.flaticon.com/512/5968/5968764.png' className='fb d-none d-xl-block' />
+                            </button>
                             {/* <div><BsFacebook className='text-light fs-1  bg-primary rounded-circle' /></div> */}
                             <div><BsPersonFill className='text-light fs-1  rounded-circle border border-light p-2 d-none d-xl-block' /></div>
                         </div>

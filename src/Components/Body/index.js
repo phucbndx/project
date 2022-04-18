@@ -50,7 +50,7 @@ function Body() {
                                 <div className="carousel-inner ">
                                     <Link to='Watch' className="carousel-item active">
                                         <img
-                                            src='https://s198.imacdn.com/ff/2022/03/24/2330a261dbb9e31e_982ea2b9f71d32cc_2340971648110912516068.jpg'
+                                            src='https://s198.imacdn.com/ff/2022/04/18/9c0a6394362ee02a_631e4bb3ad579d64_33060165024512553816.jpg'
                                             className="codeinfo__img d-block w-100 "
                                             alt="..."
                                         />
@@ -105,7 +105,7 @@ function Body() {
 
 
                         return (
-                            <Col sm={6} md={4} xl className="mt-4 pe-0 ">
+                            <Col sm={6} md={4} xl className="mt-4 pe-0 mb-3">
 
                                 <Link to='Watch' className="film mb-3 me-3 text-decoration " >
 

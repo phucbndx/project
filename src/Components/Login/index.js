@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import './login.css'
-import Body from '../Body';
+// import Body from '../Body';
 
 // import { Link } from "react-router-dom";
 import { BsPersonCircle, BsLockFill, BsEyeFill, BsEyeSlashFill } from "react-icons/bs";
@@ -39,6 +39,16 @@ const Login = () => {
 
     }
 
+    const dangNhap = () => {
+        if (userName && passWord === 'admin') {
+            setPath('../Body')
+        }
+        else {
+            alert('tên đăng nhập hoặc mật khẩu không đúng')
+        }
+    }
+
+
 
     return (
         <Container fluid >
@@ -72,7 +82,6 @@ const Login = () => {
                                             value={passWord}
                                             onChange={(e) => {
                                                 setPassWord(e.target.value)
-                                                console.log(passWord);
                                             }}
                                         />
                                         <button className='bg-body border-0 ' onClick={showPassWord}>
@@ -93,15 +102,7 @@ const Login = () => {
                             </div>
 
                             <Link to={path} className='w-100 text-center rounded-3 py-2 bg-success border-0 bg-opacity-75 text-decoration-none text-black  fs-5 mt-5 '
-                                onClick={() => {
-                                    if (userName && passWord === 'admin') {
-                                        setPath('../Body')
-                                        console.log('da click');
-
-                                    } else {
-                                        alert('tên đăng nhập hoặc mật khẩu không đúng')
-                                    }
-                                }}
+                                onClick={dangNhap}
 
 
                             >Đăng Nhập</Link>
